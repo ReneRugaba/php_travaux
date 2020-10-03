@@ -1,6 +1,7 @@
-honore@mail.com;honore;Giovanna;1993-01-28;
-malackaie@mail.com;rugaba;malakaîe;2014-03-11
 rrene@mail.com;rugaba;rene;1986-03-26
 elijah@mail.com;rugaba;Elijah;2018-12-23
-rugira@mail.com;rugira;jean françois;2020-09-30
-rutijd@mail.com;rutijanwa;jean dominique;1987-08-08
+mkmarie@mail.com;mukaruzima;marie;1981-08-28
+rukundo@mail.com;rukundo;jean Paul;1986-07-22
+malackaie@mail.com;rugaba;malakaîe;2014-01-11
+honore@mail.com;honore;Giovanna;1993-01-28
+karaba@mail.com;SOURAYA;LA SORCIERE;2020-10-15
